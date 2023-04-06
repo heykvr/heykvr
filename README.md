@@ -2,10 +2,7 @@
 <h3 align="center">Web Developer and Aspiring Java Full Stack Developer</h3>
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="350" height="350">
 
-<!--
-**heykvr/heykvr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Backend with Java
 - 🌱 I’m currently learning JDBC,spring,spring boot
