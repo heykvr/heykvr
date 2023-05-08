@@ -4,7 +4,7 @@
 
 
 [![](https://visitcount.itsvg.in/api?id=pavan6476252&icon=0&color=0)](https://visitcount.itsvg.in)
-- 🔭 I’m currently working on Backend with Java
+- 🔭 I’m currently working on MERN STACK
 - 🌱 I’m currently learning JDBC,spring,spring boot
 - 👯 I’m looking to collaborate on capstone project
 - 👨‍ All of my projects are available at [https://github.com/heykvr](https://github.com/heykvr)
