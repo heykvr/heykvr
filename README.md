@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Venkata Ramana Kondapalli</h1>
-<h3 align="center">Web Developer and Aspiring Java Full Stack Developer</h3>
+<h3 align="center">Web Developer</h3>
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="350" height="350">
 
 
 [![](https://visitcount.itsvg.in/api?id=pavan6476252&icon=0&color=0)](https://visitcount.itsvg.in)
 - 🔭 I’m currently working on MERN STACK
-- 🌱 I’m currently learning JDBC,spring,spring boot
-- 👯 I’m looking to collaborate on capstone project
 - 👨‍ All of my projects are available at [https://github.com/heykvr](https://github.com/heykvr)
 - 💬 Ask me about **Data Structures and Algorithm**
 - 📫 How to reach me: **heyykvr@gmail.com**
